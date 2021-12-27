@@ -2,10 +2,9 @@
 
 ![images](images/preview.png)
 
-Giraffe is a complete application theme, Giraffe theme built with [Vuetify](https://vuetifyjs.com/) created by [HeroUI](https://heroui.net/). It is a solution that displays dense content, such as news, blogs or magazines, including news, authors, classified pages, and so on.
-Giraffe are characterized by a large number of components assembled together and look amazing.
-If you are a new company and want to create your online image, or if you just want people to know who you are and what you do, this may be your answer.
-
+Giraffe Жираф-это полная тема приложения, тема Жирафа, созданная с помощью [Vuetify](https://vuetifyjs.com/) создано [Heroku](https://heroui.net/). Это решение, которое отображает плотный контент, такой как новости, блоги или журналы, включая новости, авторов, страницы объявлений и так далее.
+Жирафы характеризуются большим количеством компонентов, собранных вместе, и выглядят потрясающе.
+Если вы новая компания и хотите создать свой имидж в Интернете, или если вы просто хотите, чтобы люди знали, кто вы и чем занимаетесь, это может быть вашим ответом.
 ## Preview
 
 **[View Live Preview](https://giraffe.heroui.net/)**
@@ -14,7 +13,7 @@ If you are a new company and want to create your online image, or if you just wa
 
 ### Basic Usage
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `yarn` and then run `yarn serve` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+Клонируйте исходные файлы темы и перейдите в корневой каталог темы. Запустите "yarn", а затем запустите "yarn serve", который откроет предварительный просмотр шаблона в вашем браузере по умолчанию, будет следить за изменениями в файлах основных шаблонов и в режиме реального времени перезагружать браузер при сохранении изменений. Вы можете просмотреть файл "package.json", чтобы узнать, какие сценарии включены.
 
 #### Scripts
 
@@ -25,6 +24,7 @@ Clone the source files of the theme and navigate into the theme's root directory
 ## Bug & Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/AGDholo/giraffe/issues).
+По русски запросы [здесь]( https://github.com/ink-kin/giraffe.git)
 
 ## About
 

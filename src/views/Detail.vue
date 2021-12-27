@@ -6,7 +6,7 @@
           <div>
             <v-card flat color="transparent">
               <v-img
-                src="https://cdn.pixabay.com/photo/2020/02/07/20/32/cyprus-4828328_1280.jpg"
+                src="https://picsum.photos/1280/500"
                 :aspect-ratio="16 / 9"
                 gradient="to top, rgba(25,32,72,.4), rgba(25,32,72,.0)"
                 style="border-radius: 16px"
@@ -18,12 +18,11 @@
                 </div>
 
                 <div class="text-h4 font-weight-bold primary--text pt-4">
-                  <h4>15 Things | have always wondered about birds</h4>
+                  <h4>Авторский проект этого сайта - здоровый образ мышления и жизни</h4>
                 </div>
 
                 <div class="text-body-1 py-4">
-                  Mattis enim ut tellus elementum sagittis vitae et. Enim ut tellus elementum sagittis vitae et leo duis ut. Quis vel eros donec.
-                  Faucibus nisl tincidunt eget nullam. Quis commodo odio aenean sed adipiscing diam doneg.
+                  Я, Илья Клишин, обыкновенный человек. Я не летал на луну. Ну, не летал. Но если бы вы знали какая она красивая. Я не учился у великих учителей. Но если бы вы знали, как было интересно слушать каждое их слово. Я не делал с нуля рекламное агентство. Но как хорошо было знать, что птенцы его работают почти везде. Я не запускал промо акцию в 60 городов за две недели. Не выигрывал тендеров. Я не делал этого ничего. Я только горжусь многими из тех кого встретил. Особенно оленем с вишневым деревом ... И не буду лить воду.
                 </div>
 
                 <div class="d-flex align-center justify-space-between">
@@ -68,17 +67,14 @@
                     colored-border
                     color="accent"
                   >
-                    Srem Ipsum is simply dummy text of the printing and typesetting industry. Lorem lpsum has been
-                    the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply .
+                     Продвижение интеллектуальной собственности - это квинтэссенция, самая суть всех-всех накопленных мной знаний. Это три основных знания, умения или, одним словом, филосовии и дословно мудрости. И вот эти три мудрости ниже.
                   </v-alert>
                 </div>
 
                 <div class="text-h5 primary--text font-weight-bold">
-                  Ultricies mi quis hendrerit dolor
+                  MATERIAL DESIGN
                   <p class="text-subtitle-1 primary--text font-weight-medium mt-5">
-                    Quam adipiscing vitae proin sagittis nisl rhoncus. Integer vitae justo eget magna fermentum iaculis eu non. Vitae congue mauris
-                    rhoncus aenean vel elit. Nibh mauris cursus mattis molestie. Etiam sit amet nisl purus. At auctor urna nunc id cursus metus. Diam in arcu
-                    cursus euismod quis viverra nibh cras.
+                    Material Design - намерено не перевожу эту известную фразу. Наполняю её несколько большим смыслом. А именно, Маркетинг, реклама, pr, дизайн, продвижение, разработка, - вот, не полный список всего, что включаю в это понятие для себя.
                   </p>
                 </div>
 
@@ -87,7 +83,7 @@
                     <v-col cols="6">
                       <v-card>
                         <v-img
-                          src="https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293_1280.jpg"
+                          src="https://picsum.photos/500/500"
                           :aspect-ratio="16 / 9"
                           gradient="to top, rgba(25,32,72,.4), rgba(25,32,72,.0)"
                         ></v-img>
@@ -97,7 +93,7 @@
                     <v-col cols="6">
                       <v-card>
                         <v-img
-                          src="https://cdn.pixabay.com/photo/2019/11/01/11/08/landscape-4593909_1280.jpg"
+                          src="https://picsum.photos/500/500"
                           :aspect-ratio="16 / 9"
                           gradient="to top, rgba(25,32,72,.4), rgba(25,32,72,.0)"
                         ></v-img>
@@ -107,7 +103,7 @@
                 </div>
 
                 <div class="text-h5 primary--text font-weight-bold">
-                  Nibh tellus molestie nunc non blandit massa enim
+                  ТРИ ОСНОВНЫХ ДЛЯ МЕНЯ: MATERIAL DESIGN, БЫСТРОЕ РАЗВИТИЕ, ПУБЛИЧНЫЕ ВЫСТУПЛЕНИЯ
                   <div class="text-subtitle-1 primary--text font-weight-medium mt-5">
                     <ul>
                       <li class="my-2">
@@ -116,8 +112,7 @@
                       </li>
 
                       <li class="my-2">
-                        Proin libero nunc consequat interdum varius. Amet luctus venenatis lectus magna fringillal urna porttitor. Enim tortor at auctor
-                        urna nunc id cursus.
+                        БЫСТРОЕ РАЗВИТИЕ
                       </li>
 
                       <li class="my-2">

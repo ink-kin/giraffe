@@ -104,8 +104,8 @@ export default {
     drawer: null,
     btnItems: [
       {
-        text: "Free Download",
-        href: "https://github.com/AGDholo/giraffe",
+        text: "Бесплатно скачать",
+        href: " https://github.com/ink-kin/giraffe",
         target: "_black",
         color: "primary",
         icon: "mdi-download",
@@ -113,19 +113,19 @@ export default {
     ],
     barItems: [
       {
-        title: "Home",
+        title: "Главная",
         to: "/",
       },
       {
-        title: "Category",
+        title: "Категории",
         to: "/category",
       },
       {
-        title: "Detail",
+        title: "Тема дня",
         to: "/detail",
       },
       {
-        title: "Authors",
+        title: "Авторы",
         to: "/authors",
       },
     ],
